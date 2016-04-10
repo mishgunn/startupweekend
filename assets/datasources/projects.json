@@ -1,0 +1,17 @@
+[{
+  "name": "Mr. John Smith",
+  "id": 1,
+  "formId":1
+}, {
+  "name": "Mrs. Jennifer Keppler",
+  "id": 2,
+  "formId":1,
+  "badge": "?",
+  "badgecolor": "#00f"
+}, {
+  "name": "Mr. Adam Blueprint",
+  "id": 3,
+  "formId":1,
+  "badge": "!",
+  "badgecolor": "#f00"
+}]

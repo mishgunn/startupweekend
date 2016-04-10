@@ -1,0 +1,103 @@
+{
+  "common": {
+    "title": "CareGoals"
+  },
+  "authentication": {
+    "login": "Login",
+    "password": "Password",
+    "signIn": "Login",
+    "signOut": "Logout",
+    "loginRequired": "Login is required",
+    "passwordRequired": "Password is required",
+    "signedAs": "Logged in as {{name}}",
+    "failedSignIn": "Login error",
+    "passwordUpdate": {
+      "title": "Modification du mot de passe",
+      "link" : "Changer le mot de passe",
+      "submit": "Modifier",
+      "oldPassword": "Ancien mot de passe",
+      "oldPasswordRequired": "Veillez saisir votre ancien mot de passe",
+      "newPasswordConfirm": "Confirmation du nouveau mot de passe",
+      "newPasswordConfirmRequired": "Veillez saisir confirmer votre mot de passe",
+      "newPassword": "Nouveau mot de passe",
+      "newPasswordRequired": "Veuillez saisir le nouveau mot de passe",
+      "differentPasswords": "Les mots de passes ne sont pas identiques",
+      "request": {
+        "success": "Le mot de passe a été modifié",
+        "failure": "Une erreur s'est produite lors de la modification du mot de passe"
+      }
+    },
+    "lostAccount": {
+      "lostLogin": {
+        "link": "Forgot login",
+        "title": "Restoring login",
+        "request": {
+          "failure": "Unable to restore login",
+          "success": "Check your mailbox"
+        }
+      },
+      "lostPassword": {
+        "title": "Forgotten password",
+        "link": "Forgot password?",
+        "request": {
+          "failure": "La récupération du mot de passe a échoué",
+          "success": "Votre mot de passe a été envoyé sur votre boîte mail"
+        }
+      },
+      "login": "Your login",
+      "email": "Your e-mail",
+      "submit": "Get it",
+      "cancel": "Cancel",
+      "emailRequired": "The email is required"
+
+    }
+  },
+  "cases": {
+    "title": "Please select the visit",
+    "search": "Search",
+    "selectedProject": "You are working on the project",
+    "changeProject": "Change",
+    "successRemove": "Le cas a été supprimé",
+    "failedRemove": "Le cas n'a pas été supprimé",
+    "delete": {
+      "confirmation": {
+        "title": "Suppression du cas",
+        "message": "Etes-vous sûr de vouloir supprimer le cas ?",
+        "validate": "Oui",
+        "cancel": "Non"
+      }
+    }
+  },
+  "viewerTool": {
+    "control": {
+      "view": "Accéder aux images"
+    },
+    "notifications": {
+      "success": "Le viewer est en cours d'ouverture",
+      "noFreeServer": "La visualisation n'est pas disponible à cause de la forte affluence d'utilisateurs. Veuillez reessayer ultérieurement",
+      "noFreeUser": "La visualisation n'est pas disponible à cause de la forte affluence d'utilisateurs. Veuillez reessayer ultérieurement"
+    }
+  },
+  "projects": {
+    "title": "Patients data"
+  },
+  "forms": {
+    "successfulSubmit": "Le cas est caractérisé avec succes !",
+    "failedSubmit": "Le formulaire n'a pas été sauvegardé. Veuillez reessayer",
+    "validate": "Valider",
+    "confirmation": {
+      "title": "Caractérisation du cas",
+      "message": "Veuillez confirmer votre caractérisation",
+      "validate": "Ok",
+      "cancel": "Annuler"
+    },
+    "changeProject": "Changer",
+    "changeCase": "Changer",
+    "chooseOtherCase": "Changer le cas",
+    "removeCase": "Supprimer le cas",
+    "selectedProject": "Vous travaillez sur le projet",
+    "selectedCase": "Vous travaillez sur le cas"
+
+  }
+
+}

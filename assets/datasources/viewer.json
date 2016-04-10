@@ -1,0 +1,6 @@
+{
+  "access": true,
+  "params": {
+    "cmd": "doStuff %(token)s"
+  }
+}

@@ -1,0 +1,78 @@
+[{
+  "label":"",
+  "min":"Pain",
+  "max":"Comfort",
+  "value" : 25
+},
+{
+  "label":"",
+  "min":"Hospital/ICU",
+  "max":"Home",
+  "value" : 30
+},{
+  "label":"",
+  "min":"Anxiety driven",
+  "max":"Planned",
+  "value" : 35
+},{
+  "label":"",
+  "min":"Dispair",
+  "max":"Rewarding",
+  "value" : 40
+},{
+  "label":"",
+  "min":"Isolated",
+  "max":"Social",
+  "value" : 50
+},{
+  "label":"",
+  "min":"Low adoption",
+  "max":"High adoption",
+  "value" : 40
+},{
+  "label":"",
+  "min":"Single approach",
+  "max":"Ethnic diversity",
+  "value" : 5
+},{
+  "label":"",
+  "min":"Non specific",
+  "max":"Cultural",
+  "value" : 15
+},{
+  "label":"",
+  "min":"Ignored",
+  "max":"Spiritual specific",
+  "value" : 30
+},{
+  "label":"",
+  "min":"Non discussed",
+  "max":"Financial plan",
+  "value" :20
+},{
+  "label":"",
+  "min":"Sole user",
+  "max":"Community centric",
+  "value" :30
+},{
+  "label":"",
+  "min":"Lawyer",
+  "max":"Doctor",
+  "value" : 10
+},{
+  "label":"",
+  "min":"Avoided",
+  "max":"Bereavement plan",
+  "value" : 15
+},{
+  "label":"",
+  "min":"Not discussed",
+  "max":"Environment preferences",
+  "value" : 5
+},{
+  "label":"",
+  "min":"Complete loss",
+  "max":"Growth process",
+  "value" : 25
+}
+]

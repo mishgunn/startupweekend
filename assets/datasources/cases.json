@@ -1,0 +1,25 @@
+[{
+  "label": "Item 1: PAT1 CT+MR",
+  "patient" : {"code" : "PAT1"},
+  "code": "case1",
+  "order": 100,
+  "id" : 1
+}, {
+  "label": "Item 2: PAT2 PET",
+  "patient" : {"code" : "PAT2"},
+  "code": "case2",
+  "order": 100,
+  "id" : 1
+}, {
+  "label": "Item 3: PAT3 MG",
+  "patient" : {"code" : "PAT3"},
+  "code": "case3",
+  "order": 100,
+  "id" : 1
+}, {
+  "label": "Item 4: PAT1 PET+NM",
+  "patient" : {"code" : "PAT1"},
+  "code": "case4",
+  "order": 100,
+  "id" : 1
+}]
